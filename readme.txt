@@ -1,3 +1,7 @@
+DISCLAIMER:
+Any and all content presented in this repository is presented for informational and educational purposes only.
+Commercial usage is expressly prohibited. Sonic Retro claims no ownership of any code in these repositories.
+You assume any and all responsibility for using this content responsibly. Sonic Retro claims no responsibiliy or warranty.
 I started disassembling Ristar on 7 December 2009 to get the DAC samples out. Part of the process I used that time involved disassembling a lot of code; probably unnecessarily. Now I have decided to complete that disassembly process and identify critical points (decompression routines, palette loads, etc.). Now that I have enough known, I am releasing this early Ristar disassembly in hopes that interested people will expand it into a complete one. I will be happy to help when I can, but it won't be a primary project for me (at least not now).
 
 The .idb files require IDA 5.5.
